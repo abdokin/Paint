@@ -5,3 +5,4 @@
 ```bash
     vcpkg install raylib
 ```
+![alt text](https://github.com/abdokin/Paint/blob/master/mygamepic.jpg)
